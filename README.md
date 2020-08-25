@@ -1,4 +1,4 @@
-# FormInfoSnifferChromExtension
+# FormInfoSnifferChromeExtension
 Chrome extension that sniffs form input
 # Installation
 git clone the repo \
