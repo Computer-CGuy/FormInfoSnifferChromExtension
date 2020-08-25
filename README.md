@@ -5,7 +5,7 @@ git clone the repo \
 Then go to the Chrome Menu then to Extenstions then click "Load Unpacked" you have to be on the "Developer Mode" \
 Done! \
 Go to requestBin create your endPoint \
-Paste your endPoint to content.js and in the URL = "here" \
+Paste your endPoint in content.js and at URL = "here" \
 Done! \
 Happy Sniffing! \
 
