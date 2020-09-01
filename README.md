@@ -6,7 +6,7 @@ Chrome extension that sniffs form input
 ```Done!``` \
 ```Go to requestBin create your endPoint``` \
 ```Paste your endPoint in content.js and at URL = "here" ```\
-```Done! ```\
-Happy Sniffing! \
+```Done! ```
+Happy Sniffing!
 
-NOTE:- This is only for education purposes Any criminal, illegal, voilant, pwning, and for other such stuff usage is not in my accountability the USER is wholely accountable\
+**NOTE:- This is only for education purposes. Any criminal, illegal, violent, pwning, and for other such stuff usage is not in my accountability, the USER would be held accountable for its uses.**
